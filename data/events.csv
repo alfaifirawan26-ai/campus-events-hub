@@ -2,3 +2,9 @@ id,title,date,location,description
 1,Web Development Bootcamp,2026-10-15,Lab 3,Hands-on workshop covering semantic HTML and external CSS styling.
 2,AI & Python Workshop,2026-11-02,Auditorium B,Practical introduction to machine learning concepts using Python.
 3,Annual Campus Hackathon,2026-12-01,Main Hall,A 24-hour collaborative coding challenge with tech prizes.
+
+id,title,date,location,description
+1,Web Development Bootcamp,2026-10-15,Lab 3,Hands-on workshop covering semantic HTML and external CSS styling.
+2,AI & Python Workshop,2026-11-02,Auditorium B,Practical introduction to machine learning concepts using Python.
+3,Annual Campus Hackathon,2026-12-01,Main Hall,A 24-hour collaborative coding challenge with tech prizes.
+4,Cybersecurity Awareness Seminar,2026-12-10,Room 204,Learn safe online practices, phishing awareness, and account protection tips.
